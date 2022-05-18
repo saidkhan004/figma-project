@@ -1,6 +1,6 @@
 import React from 'react'
 import NavBar from '../Navbar/NavBar'
-import { Blueline, Connect, Firstline, Id, Id1, Id2, Input, Main, Name, Number, Product, Quantity, Search } from './style'
+import { Blueline, Connect, Firstline, Id1, Id2, Input, Main, Name, Number, Product, Quantity, Search } from './style'
 import CustomizedSwitches from '../SwitchforBuyurtma'
 import SearchIcon from './../../image/search.png'
 

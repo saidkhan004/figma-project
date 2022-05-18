@@ -1,6 +1,6 @@
 import React from 'react'
 import './style';
-import { Brand, Container, Logo, Orders, Brandname, Homeicon, Ordertxt, Peopleicon, Navigation, Head, Avatar, Profileimg, Username } from './style';
+import { Brand, Container, Logo, Orders, Brandname, Homeicon, Ordertxt, Peopleicon, Head, Avatar, Profileimg, Username } from './style';
 import LogoIcon from './../../image/bed 1.png';
 import HomeIcon from './../../image/homeicon.png'
 import PeopleIcon from './../../image/people.png'
@@ -11,10 +11,7 @@ import AdressIcon from './../../image/adres.png'
 import Avatarka from './../../image/avatar.png'
 import Profile from './../../image/Profile.png'
 
-import Buyurtma from '../Buyurtmalar/Buyurtma';
-import Customers from '../Customers/Customers';
-import Toifalar from '../Toifalar/Toifalar'
-import { Link, Route, Routes, NavLink  } from 'react-router-dom';
+import { Link} from 'react-router-dom';
 
 const NavBar = () => {
   return (

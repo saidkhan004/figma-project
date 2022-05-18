@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from '../Navbar/NavBar'
 import './style'
-import { Blueline, Container, Delete, DeleteBack, Edit, EditBack, Firstline, Input, Model, Model1, Model2, Model3, Model4, Model5, Search, Text, Text1, Text2, Text3, Text4, Text5, Text6 } from './style'
+import { Blueline, Container, Delete, DeleteBack, Edit, EditBack, Firstline, Input, Model, Model2, Model3, Model4, Model5, Search,  Text1, Text2, Text3, Text4, Text5, Text6 } from './style'
 
 import SearchIcon from './../../image/search.png'
 
